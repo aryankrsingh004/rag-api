@@ -1,2 +1,52 @@
-Kubernetes is a container orchestration platform used to manage containers at scale.
-Aryan's School name is ABPS.
+Aryan Kumar Singh 
++91-6390648323  |  aryankrsingh03@gmail.com  |  Portfolio  |  Github  |  linkedin.com/Aryankrsingh03 
+PROFILE 
+Tech enthusiast with strong problem-solving skills, solid grasp of DSA, and a passion for building innovative projects. 
+EDUCATION 
+Lakshmi Narain College of Technology                  
+Bachelor of Technology in Computer Science Engineering                       
+• Specialization in Artificial Intelligence and Data Science (Current CGPA: 7.12 / 10.00) 
+The Aditya Birla Public School, Renusagar         
+• All India Senior School Certificate Examination (XII): 88.2%                  
+• All India Secondary School Examination (X): 89.8 %                   
+SKILLS 
+Bhopal, India  
+Nov. 2022 – June 2026  
+Sonbhadra, India 
+March 2022 
+March 2020 
+Technical:  Python, SQL, Javascript, C++, Full-Stack Development, Competitive Programming. 
+Tools: ReactJs, React Native, MongoDB, Open CV, TensorFlow, Git & GitHub, Linux/Unix. 
+Subject: Database Management, OOP, Data Structures, Machine Learning, Operating System. 
+PROJECTS 
+Football Season Predictor | Python, Scikit-learn, Pandas, Streamlit – Link                 
+• Built an end-to-end football season predictor using Random Forest on 20+ years of LaLiga data. 
+• Developed and deployed an interactive Streamlit app for accessible predictions. 
+• Packaged project with modular scripts and setup configs for scalability. 
+Personal Portfolio | React, Google Firebase, React Three Fibre, Framer Motion - Link                 
+August 2025 
+August 2023 
+• Built a React-based portfolio website with interactive 3D models using React Three Fiber and smooth animations via 
+Framer Motion. 
+• Designed modular, reusable components with Tailwind CSS for a responsive and modern UI. 
+• Deployed the application on Google Firebase, ensuring fast and reliable hosting. 
+Blog-Palace | ExpressJs, MongoDB, Google Firebase - Link                 
+April 2024 – May 2024 
+• Designed and developed a full-stack blog posting website using the MVC architecture for clean code separation and 
+scalability. 
+• Integrated a backend database to manage blog content, ensuring real-time updates and data persistence. 
+Hand Sync Racing | Python, OpenCV,  MediaPipe - Link                               
+April 2024 
+• Enabled immersive game control by mapping real-time hand gestures to directional inputs, simulating plane-like 
+steering. 
+• Developed custom frame processing techniques to enhance gesture recognition accuracy under poor lighting 
+conditions. 
+CERTIFICATIONS  
+• Machine Learning Specialization by Stanford University – December 2024 (Link) 
+• Database Management System by Infosys Springboard – November 2024 (Link) 
+ACHIEVEMENTS 
+• Qualified GATE with a score of 405 and secured an All India Rank (AIR) of 5042. 
+• Coordinated the college event 'The Laughter Factory (TLF)' attended by 300+ students, managing logistics, 
+promotions, and a team of 10+ members to ensure smooth execution.  
+• Participated in Smart India Hackathon 2024, developing an AI-driven traffic management system using machine 
+learning, competing among top 50+ shortlisted teams at the national level. 
