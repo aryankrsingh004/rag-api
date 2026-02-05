@@ -1,7 +1,7 @@
 import os
 from fastapi import FastAPI
 import chromadb
-import ollama
+# import ollama
 
 USE_MOCK_LLM = os.getenv("USE_MOCK_LLM", "0") == "1"
 
